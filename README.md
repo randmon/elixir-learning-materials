@@ -4,7 +4,7 @@
 
 Elixir is a dynamically-typed functional programming language built upon the Erlang VM. With this we can create low-latency, scalable, maintainable and fault-tolerant systems.
 
-It is also used succesfully in other domains such as IoT, web development, data processing and so on.
+It is also used successfully in other domains such as IoT, web development, data processing and so on.
 
 ## Purpose
 
@@ -22,7 +22,7 @@ We hope that with making these materials open source, we close the gap between c
 
 ## Theory
 
-While practice and exercises are all good and well, understanding the theory is necessary. In order to facilitate that, we're providing an extra website [education.elixir.ucll.be (work in progress!)](https://education.elixir.ucll.be) where we'll cover the theory and possibly other topics as well.
+While practice and exercises are all good and well, understanding the theory is necessary. Don't forget to pay attention to important reading materials.
 
 ## Special thanks and sponsors
 
